@@ -1,6 +1,14 @@
-🕵️ AI Detective Game
+# 🕵️ AI Detective Game
 
-An AI-powered murder mystery game built using Python, Streamlit, and OpenAI.
+## 🚀 Live Demo
+
+Play the deployed application here:
+
+https://ai-detectivegame-v001.streamlit.app
+
+---
+
+AI-powered murder mystery game built using Python, Streamlit, and OpenAI.
 
 Overview
 
